@@ -1,6 +1,6 @@
 ## Functional parcellation for the anterior temporal lobe: a large-scale meta-analysis
 
-This repository contains code, data, and results for our preliminary meta-analysis for functional parcellation in the anterior temporal lobe.
+This repository contains code, data, and results for our preliminary meta-analysis for functional parcellation in the anterior temporal lobe (Hung et al., 2020 Neuroscience & Biobehavioral Reviews).
 
 The codes are based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2018) and later DMN network (Wang, Taren & Smith, 2017): 
 
