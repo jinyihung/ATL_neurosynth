@@ -2,7 +2,7 @@ astroid==1.6.5
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 bz2file==0.98
-certifi==2019.6.16
+certifi==2022.12.7
 colorama==0.4.1
 configparser==3.7.4
 cycler==0.10.0
